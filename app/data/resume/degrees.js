@@ -1,14 +1,14 @@
 const degrees = [
   {
-    school: 'Stanford University',
-    degree: 'M.S. Computational and Mathematical Engineering',
-    link: 'https://stanford.edu',
-    year: 2016,
+    school: 'Iowa State University',
+    degree: 'B.S. Computer Engineering',
+    link: 'https://iastate.edu',
+    year: 2022,
   }, {
-    school: 'University at Buffalo',
-    degree: 'B.S. Electrical Engineering, Computer Engineering',
-    link: 'https://buffalo.edu',
-    year: 2012,
+    school: 'Wayzata High School',
+    degree: 'General Education Diploma',
+    link: 'https://www.wayzataschools.org/whs',
+    year: 2018,
   },
 ];
 

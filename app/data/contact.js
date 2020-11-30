@@ -8,32 +8,27 @@ import faEnvelope from '@fortawesome/fontawesome-free-regular/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/mlSingh',
+    link: 'https://github.com/rajsinghtech',
     label: 'Github',
     icon: faGithub,
   },
+  // {
+  //   link: 'https://facebook.com/d',
+  //   label: 'Facebook',
+  //   icon: faFacebook,
+  // },
+  // {
+  //   link: 'https://www.instagram.com/Singhsaurus/',
+  //   label: 'Instagram',
+  //   icon: faInstagram,
+  // },
   {
-    link: 'https://facebook.com/d',
-    label: 'Facebook',
-    icon: faFacebook,
-  },
-  {
-    link: 'https://www.instagram.com/Singhsaurus/',
-    label: 'Instagram',
-    icon: faInstagram,
-  },
-  {
-    link: 'https://www.linkedin.com/in/RajlSingh',
+    link: 'https://www.linkedin.com/in/Rajsingh360',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
   {
-    link: 'https://angel.co/Raj-d-Singh',
-    label: 'Angel List',
-    icon: faAngellist,
-  },
-  {
-    link: 'https://twitter.com/Singhsaurus',
+    link: 'https://twitter.com/rajsinghtech',
     label: 'Twitter',
     icon: faTwitter,
   },

@@ -4,8 +4,8 @@ const data = {
     value: 0,
   },
   countries: {
-    label: 'Countries visited',
-    value: 23,
+    label: 'Based in',
+    value: 'Minneapolis, MN',
     //link: 'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
   },
   location: {
