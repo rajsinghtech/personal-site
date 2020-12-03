@@ -1,12 +1,12 @@
 const positions = [{
   company: 'Iowa State IT',
-  position: 'Student Systems Administrato',
+  position: 'Student Systems Administrator',
   link: 'https://www.it.iastate.edu/',
   daterange: 'January 2020 - Present',
   points: [
     'Responsible for supporting and administering thousands of Windows and Linux workstations and servers in the ISU IT department',
-    'Diagnosing, monitoring, and sustaining servers and network e2uipment such as routers, +rewalls, and switches in the Computer Sciences data center',
-    'Maintenance of technical e2uipment around campus',
+    'Diagnosing, monitoring, and sustaining servers and network equipment such as routers, firewalls, and switches in the Computer Sciences data center',
+    'Maintenance of technical equipment around campus',
   ],
 }, {
   company: 'Singh360',
@@ -14,9 +14,9 @@ const positions = [{
   link: 'http://singh360.com',
   daterange: 'May 2014 - Present',
   points: [
-    'Evaluation of cloud computing platforms )AWS/A ure/GoogleCloud',
+    'Evaluation of cloud computing platforms AWS/Azure/GoogleCloud',
     'Launch energy application servers on Google Cloud',
-    'Conversion of internal company of+ce tools to GSuite',
+    'Conversion of internal company office tools to GSuite',
     'App Store Optimization, network and VPN access, Internal Server Management', 
     'Computer Management, Mobile App Testing, Server Backup Management',
     'Setup of security and temperature control through Nest infrastructure',
@@ -28,7 +28,7 @@ const positions = [{
   daterange: 'May 2020 - January 2021',
   points: [
     'Disassemble and reassemble computers using various types of hand tools.',
-    'Provided Software/Hardware, Network and all other Computer/ IT and Electronics support forcustomers in retail location.',
+    'Provided Software/Hardware, Network and all other Computer/IT and Electronics support forcustomers in retail location.',
     'Performed upgrades and installations of Windows operating systems and anti-virus software.',
     'Replaced hardware components, upgraded memory, installed wireless cards and various otherupgrades for customers',
   ],
