@@ -2,7 +2,7 @@ const positions = [{
   company: 'Iowa State IT',
   position: 'Student Systems Administrator',
   link: 'https://www.it.iastate.edu/',
-  daterange: 'January 2020 - Present',
+  daterange: 'January 2021 - Present',
   points: [
     'Responsible for supporting and administering thousands of Windows and Linux workstations and servers in the ISU IT department',
     'Diagnosing, monitoring, and sustaining servers and network equipment such as routers, firewalls, and switches in the Computer Sciences data center',
@@ -23,14 +23,14 @@ const positions = [{
   ],
 }, {
   company: 'Pro Network Solutions',
-  position: 'Electronic Sales Specialist',
+  position: 'Computer Technician',
   link: 'https://pronetworksolutions.com/',
-  daterange: 'May 2020 - January 2021',
+  daterange: 'May 2020 - December 2020',
   points: [
     'Disassemble and reassemble computers using various types of hand tools.',
-    'Provided Software/Hardware, Network and all other Computer/IT and Electronics support forcustomers in retail location.',
+    'Provided Software/Hardware, Network and all other Computer/IT and Electronics support for customers in retail location.',
     'Performed upgrades and installations of Windows operating systems and anti-virus software.',
-    'Replaced hardware components, upgraded memory, installed wireless cards and various otherupgrades for customers',
+    'Replaced hardware components, upgraded memory, installed wireless cards and various other upgrades for customers',
   ],
 }, {
   company: 'Market Source',
@@ -48,7 +48,7 @@ const positions = [{
   link: 'https://target.com',
   daterange: 'February 2016 - March 2016',
   points: [
-    'Assist guests in the electronics department with friendly, helpful, and available service while presenting a clean and organi ed department',
+    'Assist guests in the electronics department with friendly, helpful, and available service while presenting a clean and organized department',
   ],
 },
 ];
