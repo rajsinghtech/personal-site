@@ -20,7 +20,7 @@ const Nav = () => (
     <section className="blurb">
       <h2>About</h2>
       <p>Hi, I&apos;m Raj. I have a passion for technology.
-        I am a Junior at <a href="https://iastate.edu/">Iowa State</a> working towards a Computer Engineering Degree.
+        I am a Junior at <a href="https://www.iastate.edu/">Iowa State</a> working towards a Computer Engineering Degree.
       </p>
       <ul className="actions">
         <li>
